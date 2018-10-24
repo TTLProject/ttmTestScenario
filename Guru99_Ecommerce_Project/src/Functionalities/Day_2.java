@@ -35,7 +35,7 @@ public class Day_2
 	    }
 		else
 		{
-			System.out.println("not equal...");
+			System.out.println("not equal...11");
 		}
 	}
       
